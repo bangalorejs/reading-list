@@ -27,3 +27,14 @@
 | Title  | Author   |
 |--------|----------|
 |[Understanding ECMAScript6](https://github.com/nzakas/understandinges6) |[Nicholas C. Zakas](https://github.com/nzakas)
+
+
+> Node.js
+
+| Title  | Author   |
+|--------|----------|
+| [Mastering Node.js](http://visionmedia.github.com/masteringnode/) |
+| [Mixu's Node Book](http://book.mixu.net/node/) |
+| [The Node Beginner Book](http://nodebeginner.org/) | [Manuel Kiessling](https://twitter.com/manuelkiessling)
+| [Up and Running with Node](http://ofps.oreilly.com/titles/9781449398583/) |
+| [Stream Handbook](https://github.com/substack/stream-handbook)| [James Halliday](https://github.com/substack)
