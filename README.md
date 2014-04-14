@@ -20,3 +20,10 @@
 > Collection of web sites to learn JavaScript
 
 [Superhero.js](http://superherojs.com/)
+
+
+> ECMAScript 6
+
+| Title  | Author   |
+|--------|----------|
+|[Understanding ECMAScript6](https://github.com/nzakas/understandinges6) |[Nicholas C. Zakas](https://github.com/nzakas)
