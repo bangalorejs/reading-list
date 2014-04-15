@@ -38,3 +38,11 @@
 | [The Node Beginner Book](http://nodebeginner.org/) | [Manuel Kiessling](https://twitter.com/manuelkiessling)
 | [Up and Running with Node](http://ofps.oreilly.com/titles/9781449398583/) |
 | [Stream Handbook](https://github.com/substack/stream-handbook)| [James Halliday](https://github.com/substack)
+
+
+
+> Front-end Tooling 
+
+| Title  | Author   |
+|--------|----------|
+| [Front-end Tooling Book](http://tooling.github.io/book-of-modern-frontend-tooling/dependency-management/webpack/getting-started.html)|[Community](https://github.com/tooling/book-of-modern-frontend-tooling/graphs/contributors)
