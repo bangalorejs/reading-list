@@ -15,6 +15,7 @@
 |--------|----------|
 |[JavaScript Promises ... In Wicked Detail](http://mattgreer.org/articles/promises-in-wicked-detail/)| [Matt Greer](http://mattgreer.org/)
 |[Promises are functional...](https://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/)| [James Coglani](https://blog.jcoglan.com/)
+| [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)| [Jecelyn Yeen](https://scotch.io/@jecelyn)
 
 
 > Collection of web sites to learn JavaScript
