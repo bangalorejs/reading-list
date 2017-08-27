@@ -1,4 +1,4 @@
-> Collection of book suugested by BangaloreJS friends.
+> Collection of book suggested by BangaloreJS friends.
 
 
 | Title  | Author   |
